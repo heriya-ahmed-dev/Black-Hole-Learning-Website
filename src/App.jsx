@@ -1,10 +1,11 @@
 import React from 'react';
-import Header from '../public/Header.jsx';
-import Parent from '../public/Components/FirstList/Parent.jsx';
-import CarouselEffect from '../public/Components/Carousel/CarouselEffect.jsx';
+import Header from './Header.jsx'
+import Parent from './Components/Carousel/FirstList/Parent.jsx';
+import './App.css'
+import CarouselEffect from './Components/Carousel/CarouselEffect.jsx'
 const App = () => {
   return (
-    <div>
+    <div className=''>
        <Header/>
        <CarouselEffect/>
        <Parent/>

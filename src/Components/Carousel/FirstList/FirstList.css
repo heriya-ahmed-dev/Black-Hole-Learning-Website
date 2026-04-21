@@ -1,0 +1,56 @@
+.box{
+    width: 300px;
+    height: 300px;
+    color: black;
+    margin: -7px auto auto 0px;
+    object-fit: cover;
+    box-shadow: 0 4px 10px rgba(95, 93, 93, 0.1);
+    text-align: center;
+    border-radius: 20px;
+    background-color: rgb(222, 217, 211);
+    }
+
+ .box_two{
+    width: 300px;
+    height: 300px;
+    color: white;
+    margin: -7px auto auto 0px;
+    object-fit: cover;
+    box-shadow: 0 4px 10px rgba(95, 93, 93, 0.1);
+    text-align: center;
+    border-radius: 20px;
+    background-color: rgb(222, 217, 211);
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTc2mzhS-UR82S4WPNLTTQrF-sghN1onvyB1Q&s)  ;
+    background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+.box_three{
+    width: 300px;
+    height: 300px;
+    color: white;
+    margin: -7px auto auto 0px;
+    object-fit: cover;
+    box-shadow: 0 4px 10px rgba(95, 93, 93, 0.1);
+    text-align: center;
+    border-radius: 20px;
+    background-color: rgb(222, 217, 211);
+    background-image: url(https://assets.science.nasa.gov/dynamicimage/assets/science/psd/solar/internal_resources/3621/Image_of_galaxy_with_jet_of_light_emerging.jpeg?w=1296&h=1312&fit=clip&crop=faces%2Cfocalpoint);
+       background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+.child_img{
+    margin-top: 10px;
+    width: 50pxpx;
+    border-radius: 10px;
+
+}
+
+.Link{
+    width: 20px;
+    background-color: #162a91;
+    text-decoration: none;
+}

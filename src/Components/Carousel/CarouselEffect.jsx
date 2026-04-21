@@ -19,7 +19,7 @@ const CarouselEffect = () => {
                 CarouselData.map((img)=>{
                  return(
                     <div key ={img.id} >
-                       <CarouselCard data = {img}/>
+                       <CarouselCard data = {img} />
                     </div>
                  )   
                 })

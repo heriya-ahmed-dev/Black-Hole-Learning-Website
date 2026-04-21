@@ -1,0 +1,13 @@
+
+.body {
+    display: flex;
+    justify-content: center;
+    margin: 0px 3px ;
+    padding: 0px;
+}
+
+.Carousel_img {
+    max-width: 1100px;
+    height: 75vh;
+    object-fit: cover;
+}
